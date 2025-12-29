@@ -1,0 +1,20 @@
+{
+  "name": "app-contacto-automation",
+  "version": "1.0.0",
+  "description": "Repositorio para la automatizacion de APP CONTACTO, hecho con cypress.",
+  "homepage": "https://github.com/eliezerdeleon/app-contacto-automation#readme",
+  "bugs": {
+    "url": "https://github.com/eliezerdeleon/app-contacto-automation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliezerdeleon/app-contacto-automation.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
