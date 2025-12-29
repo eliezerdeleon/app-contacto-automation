@@ -19,9 +19,11 @@
     "cy:open:qa": "cypress open --env ENV=qa",
     "cy:open:dev": "cypress open --env ENV=dev",
     "cy:open:staging": "cypress open --env ENV=staging",
+    "cy:open:prod": "cypress open --env ENV=prod",
     "cy:run:qa": "cypress run --env ENV=qa",
     "cy:run:dev": "cypress run --env ENV=dev",
-    "cy:run:staging": "cypress run --env ENV=staging"
+    "cy:run:staging": "cypress run --env ENV=staging",
+    "cy:run:prod": "cypress run --env ENV=prod"
   },
   "devDependencies": {
     "cypress": "^15.8.1"
