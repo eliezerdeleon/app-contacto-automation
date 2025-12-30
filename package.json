@@ -26,6 +26,7 @@
     "cy:run:prod": "cypress run --env ENV=prod"
   },
   "devDependencies": {
-    "cypress": "^15.8.1"
+    "cypress": "^15.8.1",
+    "cypress-real-events": "^1.15.0"
   }
 }
